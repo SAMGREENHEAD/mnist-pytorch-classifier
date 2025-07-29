@@ -62,8 +62,6 @@ A simple **feedforward neural network** with:
 
 - Training loss per epoch
 - Training accuracy per epoch
-- Classification report on validation set
-- (Optional) Confusion matrix, validation loss, etc.
 
 ---
 
